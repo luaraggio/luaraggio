@@ -7,10 +7,12 @@
 </head>
 <body>
     <h2 style="text-align: center;">Hi, I'm Luara! 👋</h2>
-<p style="text-align: center;">Esta é a primeira linha.<br />
-Esta é a segunda linha após a quebra.</p>
-    <br>
-    </br>
+    <p style="text-align: center;">
+        - 🔭 I’m currently working on a minishell project in C, a lightweight clone of the Bash.
+        <br>
+        </br>
+    - 📖 Ask me about everything from exploring new technologies and diving deep into learning, to discussing epic fantasy literature and unraveling magic imaginary worlds.
+    </p>
     <a href="https://github.com/luaraggio/github-readme-stats">
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=luaraggio&theme=radical" style="margin-right: 40px;" />
     </a>
