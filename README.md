@@ -11,7 +11,7 @@
         - 🔭 I’m a software engineering  student, currently working on a minishell project in C, a lightweight clone of Bash.
         <br>
         </br>
-    - 👩‍💻 Into challenging programming projects that drive my efficiency and foster collaboration.
+    - 👩‍💻 Into challenging programming projects that drive my efficiency and collaboration.
         <br>
         </br>
     - 📖 Ask me about anything from exploring new technologies and diving deep into learning to discussing epic fantasy literature - one of my oldest passions.
