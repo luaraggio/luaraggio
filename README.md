@@ -14,6 +14,11 @@ Esta é a segunda linha após a quebra.</p>
     <a href="https://github.com/luaraggio/github-readme-stats">
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=luaraggio&theme=radical" style="margin-right: 40px;" />
     </a>
+    &nbsp; <!-- Espaço em branco --> 
+    &nbsp; <!-- Espaço em branco --> 
+    &nbsp; <!-- Espaço em branco -->
+    &nbsp; <!-- Espaço em branco -->
+    &nbsp; <!-- Espaço em branco -->
     <a href="https://github.com/luaraggio">
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luaraggio&theme=radical&layout=compact&langs_count=8&card_width=320" />
     </a>
