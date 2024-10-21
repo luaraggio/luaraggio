@@ -8,7 +8,7 @@
 <body>
     <h2 style="text-align: center;">Hi, I'm Luara! 👋</h2>
     <p style="text-align: center;">
-        - 🔭 I’m a software engineering  student, currently working on a minishell project in C, a basic clone of Bash.
+        - 🔭 I’m a software engineering  student, currently studying C and science data.
         <br>
         </br>
     - 👩‍💻 Into challenging programming projects that drive my efficiency and collaboration.
