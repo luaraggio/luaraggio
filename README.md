@@ -8,7 +8,7 @@
 <body>
     <h2 style="text-align: center;">Hi, I'm Luara! 👋</h2>
     <p style="text-align: center;">
-        - 🔭 I’m a software engineering  student, currently studying DevOps and Science Data.
+        - 🔭 I’m a software engineering  student, currently studying Docker and Science Data.
         <br>
         </br>
     - 👩‍💻 Into challenging programming projects that drive my efficiency and collaboration.
