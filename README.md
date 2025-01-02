@@ -16,7 +16,6 @@
         </br>
     - 📖 Ask me about anything from exploring new technologies and diving deep into learning to discussing epic fantasy literature - one of my oldest passions.
     </p>
-    <br>
     <a href="https://github.com/luaraggio/github-readme-stats">
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=luaraggio&theme=radical" style="margin-right: 40px;" />
     </a>
